@@ -5,3 +5,8 @@ tasks:
     dir: joyeuse
     cmds:
       - pnpm tauri dev
+
+  build:
+    dir: joyeuse
+    cmds:
+      - pnpm tauri build

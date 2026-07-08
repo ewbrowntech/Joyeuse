@@ -1,1 +1,5 @@
 .env
+
+# Build outputs
+joyeuse/dist/
+joyeuse/src-tauri/target/
